@@ -1,0 +1,11 @@
+Performance Results of Random Forest Classifier Model with Physically Derived Missing Values and Engineered Features
+
+Accuracy: 0.8184
+Precision: 0.8115
+Recall Score: 0.8184
+F1 Score: 0.7980
+Number of trees used in the model (n_estimators):  1000
+Number of augmented samples:   100
+Total number of features in model:    18
+Maximum number of features to fit in model: sqrt 
+Test size fraction: 0.30

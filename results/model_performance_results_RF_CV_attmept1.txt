@@ -1,0 +1,28 @@
+Performance Results of Random Forest Classifier Model with K-Fold Cross Validation with Engineered Features
+
+Average accuracy Score: 0.7219
+Median accuracy Score: 0.7508
+Minimum accuracy Score: 0.4861
+Maximum accuracy Score: 0.9387
+Variance in accuracy Scores: 0.0242
+Average precision Score: 0.7463
+Median precision Score: 0.8229
+Minimum precision Score: 0.5090
+Maximum precision Score: 0.9364
+Variance in precision Scores: 0.0235
+Average recall Score: 0.7219
+Median recall Score: 0.7508
+Minimum recall Score: 0.4861
+Maximum recall Score: 0.9387
+Variance in recall Scores: 0.0242
+Average f1 Score: 0.7161
+Median f1 Score: 0.7812
+Minimum f1 Score: 0.4186
+Maximum f1 Score: 0.9365
+Variance in f1 Scores: 0.0307
+Number of trees used in the model (n_estimators):   200
+Number of augmented samples:   100
+Number of K-Folds:    10
+Total number of features in model:    18
+Maximum number of features to fit in model: 0.8  
+Random number seed:    42
